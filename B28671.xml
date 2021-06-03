@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Whereas Samuel Ravenshaw, of London, bookseller, above three years ago, during the then session of Parliament, did publish a short paper, by way of advertisement, touching a large and copious argument, the which for near 16 years last past he has been prosecuting; ...</title>
+            <author>Ravenshaw, Samuel.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28671</idno><idno type="EEBO-CITATION">99885449</idno>
+  <idno type="VID">188969</idno>
+  <idno type="EEBO-PROQUEST">2264214328</idno>
+  
+            <idno type="STC">Wing R345B</idno>
+            <idno type="STC">Interim Tract Supplement Guide Harl.7614[264]</idno>
+            <idno type="STC">ESTC R223164</idno>
+            <idno type="PROQUEST">ocm99885449</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885449e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28671)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188969)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C14:1[112])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Whereas Samuel Ravenshaw, of London, bookseller, above three years ago, during the then session of Parliament, did publish a short paper, by way of advertisement, touching a large and copious argument, the which for near 16 years last past he has been prosecuting; ...</title>
+                  <author>Ravenshaw, Samuel.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title taken from first lines of text.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>With advertisement at foot of sheet.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Numerology --  Early works to 1800.</term>
+               <term type="topical_term">Numbers in the Bible --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:188969:1"/>
+            <p>WHereas <hi>Samuel Ravenshaw,</hi> of <hi>London,</hi> Bookseller, above Three Years ago, <hi>during the then Session of Parliament,</hi> did Publish a short paper, by way of Advertisement, touching a large and copious Argument, the which for <hi>near</hi> 16 <hi>years</hi> last past he has been Pro<g ref="char:EOLhyphen"/>secuting; about which he had likewise formerly, in a <hi>Latin Specimen</hi> (where<g ref="char:EOLhyphen"/>of were only a few Copies, and those never publickly dispersed) given some ve<g ref="char:EOLhyphen"/>ry short account; And <hi>lately</hi> likewise, as well at <hi>Cambridg,</hi> as <hi>elsewhere,</hi> has had an opportunity more fully to Discuss the Premises.</p>
+            <p>Whereas farther, divers Learned Men <hi>heretofore,</hi> hove laid down several Principles, not only in Explication of the <hi>Prophetical Scriptures,</hi> tho the same, perhaps not yet sufficiently demonstrated, unto the Conviction of others, by pertinent <hi>matters of Fact, Numerically disposed:</hi> But Others also, as particularly the great States-man <note n="*" place="margin">
+                  <hi>J. Bodin</hi> de Repub<g ref="char:EOLhyphen"/>lica, lib. <hi>4.</hi> c. <hi>2.</hi> Ejusd. Method. Hist. cap. <hi>6.</hi> de Conversionibus Rerumpub<g ref="char:EOLhyphen"/>licarum ad Numeros collat.</note>
+               <hi>Jo. Bodin,</hi> have, <hi>ex professo,</hi> treated of <hi>Political Changes,</hi> on the Expirations of certain <hi>Numbers</hi> of <hi>Years.</hi>
+            </p>
+            <p>He the said <hi>Samuel Ravenshaw</hi> hereupon, from and after long Experience, do's lay down this general Position, <hi>That the Prophetical Principles are most clearly Demonstrable by the Prophetical Numbers.</hi>
+            </p>
+            <p>And according hereunto, That the <hi>following Numbers,</hi> viz. 2300, 1335, 1290, 1260, 666, 490, 390 and 40, 144 and 70. which do <hi>Occur</hi> in the Pro<g ref="char:EOLhyphen"/>ph<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cies of <hi>Daniel, Ezekiel, Jeremiah,</hi> and the <hi>Revelation</hi> of St. <hi>John,</hi> he asserts to have been certainly Reveal'd, in Order to the <hi>Bounding of Times, and the great Revolutions therein.</hi> And that some of them, especially at some times more than at others, are of as Eminent and <hi>Vndeniable Vse,</hi> as even Vowels in Writing, or Figures in Conjunction with Cyphers, in Numeration, for the <hi>transmitting</hi> a faint Idea of some of the <hi>Divine Decrees</hi> to the World, for and during the most Material Transactions Ecclesiastical and Civil, of <hi>above</hi> 2500 <hi>years</hi> last past; <hi>viz.</hi> by the Intervening <hi>Distances</hi> betwixt Events, <hi>for<g ref="char:EOLhyphen"/>merly,</hi> by the forementioned Numbers of Years; and <hi>Now,</hi> by the like, of <hi>Natural Days.</hi>
+            </p>
+            <p>But because it would exceed the determin'd bounds, of a short Advertisement, to exemplifie ought, touching those Particulars; the which, tho but briefly com<g ref="char:EOLhyphen"/>priz'd together, must Necessarily arise unto a large and copious Discourse: A farther Account thereupon, touching the Premises, is reserv'd to be Verbally given, unto All Persons of Quality. Gentlemen, or Others, at the <hi>House</hi> on the Right Hand, next adjoyning to the Foot of the Stairs, going up to the <hi>House of Lords,</hi> out of the <hi>Did Palace-Yard,</hi> Westminster, at any time from and af<g ref="char:EOLhyphen"/>ter this present <hi>Saturday, March</hi> 25. 169<seg rend="sup">4</seg>. during the present Session of Parlia<g ref="char:EOLhyphen"/>ment.<note n="***" place="bottom">The General History of the Reformation of the Church, from the Errors and Cor<g ref="char:EOLhyphen"/>ruptions of the Church of <hi>Rome,</hi> begun in <hi>Germany,</hi> by <hi>Martin Luther;</hi> with the Prozress thereof in All Parts of <hi>Christendon,</hi> from the Year <hi>1517</hi> to the Year <hi>1556.</hi> Written in <hi>Latin</hi> by <hi>John Sleidan,</hi> L. L. D. and faithfully <hi>Englished:</hi> to which is add<g ref="char:EOLhyphen"/>ed, a Continuation to the End of the Council of <hi>Trent,</hi> in the Year <hi>1563.</hi> by <hi>Ed. Bohun,</hi> Esq; with the Effigies of <hi>Sleidan, Luther, Charles V. Frederick III.</hi> Duke of <hi>Sax<g ref="char:EOLhyphen"/>ony,</hi> P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pe <hi>Leo X.</hi> and <hi>Phil. Melancthon.</hi> To be Sold by <hi>Samuel Ravenshaw,</hi> at the place fore-mention'd. Where Variety of other Books, by written Catalogues; as also several Volumes of Tracts bound together, and great Numbers of single Pamphlets or Sticht Books, <hi>&amp;c.</hi> are likewise to be sold. <hi>1695.</hi>
+               </note>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
